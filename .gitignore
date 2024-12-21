@@ -1,0 +1,16 @@
+# 공통적으로 무시해야 할 파일들
+*.log
+*.tmp
+.DS_Store
+
+# murmur-flutter 관련
+murmur-flutter/build/
+murmur-flutter/.dart_tool/
+murmur-flutter/.idea/
+murmur-flutter/.packages
+murmur-flutter/pubspec.lock
+
+# murmur-django 관련
+murmur-django/__pycache__/
+murmur-django/db.sqlite3
+murmur-django/staticfiles/
