@@ -1,6 +1,6 @@
 # Murmur, 머머: 심장동물병원찾기 서비스
+<img src="https://github.com/user-attachments/assets/1d37e6c0-015d-4f23-b4e4-837a7b75791e" alt="Murmur Logo1" style="vertical-align: middle;"/>
 
-<img src="https://github.com/user-attachments/assets/62a8d607-4fd8-495b-9edd-be254277dfbd" alt="Murmur Logo1"/>
 
 ## Download Available January 2025
 
