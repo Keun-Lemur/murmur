@@ -1,10 +1,12 @@
 # Murmur, 머머: 심장동물병원찾기 서비스
 
+<img src="https://github.com/user-attachments/assets/62a8d607-4fd8-495b-9edd-be254277dfbd" alt="Murmur Logo1"/>
+
 ## Download Available January 2025
 
-<img src="https://github.com/user-attachments/assets/dbfce7e0-9b88-4080-b394-d9e35fffe061" alt="Murmur Logo"/>
+<img src="https://github.com/user-attachments/assets/dbfce7e0-9b88-4080-b394-d9e35fffe061" alt="Murmur Logo2"/>
 
-- **iOS**: [Download on the App Store](https://apps.apple.com/kr/app/ë¨¸¸iOS: [https://apps.apple.com/kr/app/ë¨¸\xb8ë¨¨iOS: [https://apps.apple.com/kr/app/ë¨¸\xb8ë¨\xa8¸¨iOS: [https://apps.apple.com/kr/app/ë¨¸\xb8ë¨\xa8¸\xa8¸iOS: https://apps.apple.com/kr/app/ë¨¸\xb8ë¨\xa8¸\xa8\xb8/id6702028834?l=en-GB)
+- **iOS**: [Download on the App Store](https://apps.apple.com/kr/app/머머/id6702028834?l=en-GB)
 - **Android**: [Download on Google Play](https://play.google.com/store/apps/details?id=com.concrete.JaegaebalNew)
 
 ## Tech Stack
