@@ -1,12 +1,9 @@
+## MURMUR, 머머: 심장전문동물병원 찾기 서비스!
+
+**Download Available January 2025:**
 <div align="center">
-  <h1 style="display: inline-block; vertical-align: middle;">Murmur, 머머: 심장동물병원찾기 서비스</h1>
-  <img src="https://github.com/user-attachments/assets/1d37e6c0-015d-4f23-b4e4-837a7b75791e" alt="Murmur Logo1" width="50" style="vertical-align: middle;"/>
+  <img src="https://github.com/user-attachments/assets/1d37e6c0-015d-4f23-b4e4-837a7b75791e" width= "100" alt="Murmur Logo1" width="50"/>
 </div>
-
-
-
-## Download Available January 2025
-
 <img src="https://github.com/user-attachments/assets/dbfce7e0-9b88-4080-b394-d9e35fffe061" alt="Murmur Logo2"/>
 
 - **iOS**: [Download on the App Store](https://apps.apple.com/kr/app/머머/id6702028834?l=en-GB)
