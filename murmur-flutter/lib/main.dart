@@ -10,6 +10,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:provider/provider.dart';
 import 'package:kakao_flutter_sdk_common/kakao_flutter_sdk_common.dart'; // Kakao SDK 추가
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 // 조건부 import
 import 'package:concrete_jaegaebal/view/mobile_stub.dart'
@@ -26,6 +27,7 @@ import 'firebase_options.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await dotenv.load(fileName: ".env"); // .env 파일 로드
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );

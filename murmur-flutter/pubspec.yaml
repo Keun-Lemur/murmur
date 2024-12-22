@@ -56,6 +56,7 @@ dependencies:
   showcaseview: ^3.0.0
   speech_balloon: ^0.0.4
   shimmer: ^3.0.0
+  flutter_dotenv: ^5.2.1
 
 flutter_native_splash:
   color: "#ffffff"
@@ -102,6 +103,7 @@ flutter:
     - assets/androidSplash.png
     - assets/images/goto_archive.png
     - assets/images/dont_understand.png
+    - .env
 
   #   - images/a_dot_ham.jpeg
 

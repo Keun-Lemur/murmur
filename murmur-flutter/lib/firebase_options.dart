@@ -3,6 +3,7 @@
 import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 /// Default [FirebaseOptions] for use with your Firebase apps.
 ///
@@ -50,8 +51,8 @@ class DefaultFirebaseOptions {
     measurementId: 'G-E95LB7XLFJ',
   );
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBYFLLwvtST93AX3q6abifEw0Ho_Tbchn4',
+  static FirebaseOptions android = FirebaseOptions(
+    apiKey: dotenv.env['GOOGLE_API_KEY'] ?? '',
     appId: '1:839230426241:android:d420a035a06a91d200d180',
     messagingSenderId: '839230426241',
     projectId: 'concrete-flutter',
@@ -64,8 +65,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '839230426241',
     projectId: 'concrete-flutter',
     storageBucket: 'concrete-flutter.appspot.com',
-    androidClientId: '839230426241-4q7sgppmpbvv0dr3p1mfe1tb2bva9o4k.apps.googleusercontent.com',
-    iosClientId: '839230426241-71845oqofo45dm8cjsa3io0k96pggcie.apps.googleusercontent.com',
+    androidClientId:
+        '839230426241-4q7sgppmpbvv0dr3p1mfe1tb2bva9o4k.apps.googleusercontent.com',
+    iosClientId:
+        '839230426241-71845oqofo45dm8cjsa3io0k96pggcie.apps.googleusercontent.com',
     iosBundleId: 'com.concrete.JaegaebalNew',
   );
 
@@ -75,8 +78,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '839230426241',
     projectId: 'concrete-flutter',
     storageBucket: 'concrete-flutter.appspot.com',
-    androidClientId: '839230426241-4q7sgppmpbvv0dr3p1mfe1tb2bva9o4k.apps.googleusercontent.com',
-    iosClientId: '839230426241-71845oqofo45dm8cjsa3io0k96pggcie.apps.googleusercontent.com',
+    androidClientId:
+        '839230426241-4q7sgppmpbvv0dr3p1mfe1tb2bva9o4k.apps.googleusercontent.com',
+    iosClientId:
+        '839230426241-71845oqofo45dm8cjsa3io0k96pggcie.apps.googleusercontent.com',
     iosBundleId: 'com.concrete.JaegaebalNew',
   );
 
@@ -89,5 +94,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'concrete-flutter.appspot.com',
     measurementId: 'G-P6KEYW6MTP',
   );
-
 }

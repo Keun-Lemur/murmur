@@ -2,6 +2,7 @@
 *.log
 *.tmp
 .DS_Store
+.env
 
 # murmur-flutter 관련
 murmur-flutter/build/
