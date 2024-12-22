@@ -58,7 +58,7 @@ Murmur was created to address this gap by helping pet owners find trusted and ex
 
 ## Team Achievements
 
-- **DAU Growth**: Reached 16,000 Daily Active Users (DAU) during the MVP stage.
+- **DAU Growth**: Reached 1,600 Daily Active Users (DAU) during the MVP stage.
 - **User Research**: Engaged with 1,000 pet owners through cafe communities and major animal medical centers in Seoul and Bucheon to refine the service.
 - **Lessons Learned**: Despite initial growth, the team pivoted due to challenges in identifying a sustainable business model.
 
